@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" >= 4.5
+github "Alamofire/AlamofireImage" ~> 3.2
+github "SwiftyJSON/SwiftyJSON" >= 4.0
+github "SVProgressHUD/SVProgressHUD" >= 2.0
